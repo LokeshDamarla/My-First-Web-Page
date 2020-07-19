@@ -1,0 +1,37 @@
+h1{
+  margin: 0;
+  background-color: #f1e3cb;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-style: italic;
+  width:auto;
+  font-size: 50px;
+}
+p{
+  text-align:center;
+  font-size: 20px;
+}
+h2{
+  color: #f9b384;
+  text-decoration: underline;
+}
+ol{
+  font-family: cursive;
+}
+ul{
+  text-align: left;
+  font-size: 20px;
+  font-style: italic;
+  color: #ca5116;
+  padding: 10px;
+}
+img{
+  height: 100px;
+}
+a{
+  color: #142850;
+}
+.firstp{
+  text-align:left;
+}
